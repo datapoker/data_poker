@@ -4,7 +4,6 @@
 
 目前已有 demo ，目前支持数据HUD功能，支持AI算法 ，如下图；
 ![image](https://github.com/wyosean/data_poker/assets/9973784/22686241-206f-4b32-9b4e-ce237098b228)
-![image](https://github.com/user-attachments/assets/57074818-d965-4e0f-8111-6751e4956780)
 ![image](https://github.com/user-attachments/assets/fadab515-b992-4288-b495-af1235283ede)
 
 
